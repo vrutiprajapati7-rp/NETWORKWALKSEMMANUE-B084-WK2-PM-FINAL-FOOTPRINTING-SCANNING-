@@ -283,7 +283,8 @@ The following screenshots were captured during the practical activities and can 
 
 | Screenshot          | Description                               |
 | ------------------- | ----------------------------------------- |
-| <img width="1920" height="1080" alt="Screenshot (599)" src="https://github.com/user-attachments/assets/8421154a-fff3-4356-a9d8-f3302793cbe3" />      | WHOIS domain information                  |
+| <img width="1920" height="1080" alt="Screenshot (599)" src="https://github.com/user-attachments/assets/8421154a-fff3-4356-a9d8-f3302793cbe3" />      
+     | WHOIS domain information                  |
 | <img width="1920" height="1080" alt="Screenshot (601)" src="https://github.com/user-attachments/assets/46a990ff-271f-4112-9cbd-db5e5493af87" />
      | WhatWeb website technology identification |
 | <img width="1920" height="1080" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/7cc3cc94-a91c-4537-b6c9-2c9247a4b794" />
