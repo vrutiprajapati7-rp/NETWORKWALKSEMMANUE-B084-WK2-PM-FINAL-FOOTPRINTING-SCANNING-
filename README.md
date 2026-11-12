@@ -281,30 +281,38 @@ Overall, this week's practical experience helped me develop basic hands-on skill
 
 The following screenshots were captured during the practical activities and can be attached to the GitHub repository.
 
-| Screenshot          | Description                               |
+| Screenshots | Description                              
 | ------------------- | ----------------------------------------- |
 | <img width="1920" height="1080" alt="Screenshot (599)" src="https://github.com/user-attachments/assets/8421154a-fff3-4356-a9d8-f3302793cbe3" />      
-     | WHOIS domain information                  |
+     || WHOIS domain information                  |
+     
 | <img width="1920" height="1080" alt="Screenshot (601)" src="https://github.com/user-attachments/assets/46a990ff-271f-4112-9cbd-db5e5493af87" />
-     | WhatWeb website technology identification |
+     || WhatWeb website technology identification |
+     
 | <img width="1920" height="1080" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/7cc3cc94-a91c-4537-b6c9-2c9247a4b794" />
-     | NSLookup DNS resolution                   |
+     || NSLookup DNS resolution                   |
+     
 | <img width="1920" height="1080" alt="Screenshot (603)" src="https://github.com/user-attachments/assets/5768944d-9a83-43b6-8a34-f96cf60da137" />
-     | cURL HTTP response headers                |
+     || cURL HTTP response headers                |
+     
 | <img width="1920" height="1080" alt="Screenshot (604)" src="https://github.com/user-attachments/assets/4372c56e-5e14-48ce-80b5-2604e4c4b473" />
-     | WAFW00F firewall detection                |
+     || WAFW00F firewall detection                |
+     
 | <img width="1920" height="1080" alt="Screenshot (605)" src="https://github.com/user-attachments/assets/a9281f77-af21-4dae-b3c6-f3ebe1f5da8a" />
-      | DNSRecon DNS enumeration                  |
+      || DNSRecon DNS enumeration                  |
+      
 | <img width="1920" height="1080" alt="Screenshot (607)" src="https://github.com/user-attachments/assets/2f8b2606-37c2-421b-9641-98fc8a6d01f2" />
 <img width="1920" height="1080" alt="Screenshot (608)" src="https://github.com/user-attachments/assets/7a1b8ad0-73ef-44da-9456-be6191fbb7a2" />
 <img width="1920" height="1080" alt="Screenshot (609)" src="https://github.com/user-attachments/assets/f0c0b07e-d4e8-43f0-a2ea-23431d68c5ab" />
 <img width="1920" height="1080" alt="Screenshot (611)" src="https://github.com/user-attachments/assets/8e20f940-a2d3-4c65-92e3-dad57bfc1090" />
-| TheHarvester OSINT results                |
+     || TheHarvester OSINT results                |
+     
 | <img width="1920" height="1080" alt="Screenshot (612)" src="https://github.com/user-attachments/assets/24ae2288-8798-4049-8ee8-012d3be364f7" />
-     | Windows IP configuration                  |
+     || Windows IP configuration                  |
+     
 | <img width="1920" height="1080" alt="Screenshot (613)" src="https://github.com/user-attachments/assets/5b611921-528c-47ef-a1bd-ff107311a2c3" />
 <img width="1920" height="1080" alt="Screenshot (614)" src="https://github.com/user-attachments/assets/876ec7fe-7b2f-4651-a14f-0a4de2164197" />
-     | Nmap network discovery                    |
+     || Nmap network discovery                    |
 
 
 — End of Report —
