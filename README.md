@@ -281,8 +281,7 @@ Overall, this week's practical experience helped me develop basic hands-on skill
 
 The following screenshots were captured during the practical activities and can be attached to the GitHub repository.
 
-| Screenshots | Description                              
-| ------------------- | ----------------------------------------- |
+| Screenshots | Description  |                            
 | <img width="1920" height="1080" alt="Screenshot (599)" src="https://github.com/user-attachments/assets/8421154a-fff3-4356-a9d8-f3302793cbe3" />      
      || WHOIS domain information                  |
      
